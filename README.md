@@ -1,6 +1,6 @@
 ### Hey, I'm Jared.
 
-I'm a founder and engineering leader based in Salt Lake City. I build and run the security and engineering function — at my own companies and fractionally for pre-Series-A teams that need that judgment without a full-time hire.
+I'm a founder and engineering leader based in Bakersfield CA. I build and run the security and engineering function — at my own companies and fractionally for pre-Series-A teams that need that judgment without a full-time hire.
 
 13+ years shipping production AI, distributed backend systems, and resilient multi-cloud infrastructure. Previously co-founded PopSocial (scaled engineering from 1 to 15+), and led security and engineering as a director at Lavender, BlockFi, InsideTrack, and AAMP Global.
 
